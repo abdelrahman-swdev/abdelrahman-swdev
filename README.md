@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **abdelrahmangksd@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/gmqxI](shorturl.at/gmqxI)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15sJQaADb2KbGcFeCpOsiCEh3DdMSq6zg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
