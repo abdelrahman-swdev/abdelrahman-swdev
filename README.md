@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Gamal</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [Summer Training System](https://github.com/abdelrahman-swdev/SummerTrainingSystem)
 
